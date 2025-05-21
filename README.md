@@ -1,3 +1,3 @@
-# opendata-grourmet
+# opendata-gourmet
 
-- [grourment.csv](grourment.csv)
+- [gourment.csv](gourment.csv)
